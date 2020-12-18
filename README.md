@@ -66,7 +66,7 @@ The code is also well commented for more details.
   <img src="images/Data3_occ.png" width="32%" /> 
 </p>
 
-### Case 3:
+### Case 4:
 <p float="left">
   <img src="images/Data2_dead.png" width="32%" />
   <img src="images/Data2_final.png" width="32%" /> 
