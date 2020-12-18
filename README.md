@@ -1,4 +1,6 @@
-particle_filter.py
+
+## File Details
+### particle_filter.py
 
 - Loads the provided data
 - Has a sympy and lambda function based transformation matrix for faster computations. It creates a function which takes all the joint angles, current pose of the robot & LIDAR scans lin sensor frame and returns the xyz coordinates in world frame
@@ -15,8 +17,8 @@ particle_filter.py
 - Overfitting is done, i.e. limits on the maximum and minimum values in log odds map
 
 The code is also well commented for more details.
--------------------------------------------------------------------------------------------------------
-texture.py
+
+### texture.py
 
 - It loads all the provided data and the data saved from particle filter (MAP and trajectory)
 - Has a sympy and lambda function based transformation matrix for faster computations. It creates a function which takes all the joint angles, current pose of the robot & LIDAR scans lin sensor frame and returns the xyz coordinates in world frame
