@@ -38,7 +38,7 @@ The code is also well commented for more details.
 The code is also well commented for more details.
 
 ## Technical Paper
-* [Saurabh Himmatlal Mirani. "Particle Filter SLAM" Feb. 2020](report/ParticleFilterSLAM.pdf)
+* [Saurabh Himmatlal Mirani. "Particle Filter SLAM" Feb. 2020](report/ParticlFilterSLAM.pdf)
 
 ## Results
 * 1st Column shows the dead recknoning trajectory (without Particle Filter) and corressponding map 
